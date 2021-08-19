@@ -1,4 +1,4 @@
-# Statistical Learning & Machine Learning - AU2020
+# Statistical Learning & Machine Learning - AU2021
 
 This repository contains the student exercises for the Statistical Learning & Machine Learning course at Aarhus University.
 
