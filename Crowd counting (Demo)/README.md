@@ -2,5 +2,5 @@
 
 ## Model's architecture
 
-![](Image/Architecture.jpg)
+![](Image/Architecture.JPG)
 
